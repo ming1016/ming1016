@@ -1,4 +1,12 @@
-Hi 👋 My name is Dai Ming =========================  iOS and macOS Developer -----------------------  * 🌍  I'm based in Beijing * 🖥️  See my portfolio at [Starming](http://ming1016.github.io) * ✉️  You can contact me at [ming1016@foxmail.com](mailto:ming1016@foxmail.com) * 🚀  I'm currently working on [戴铭的开发小册子](http://github.com/ming1016/SwiftPamphletApp) * 🧠  I'm learning SwiftUI
+Hi 👋 My name is Dai Ming 
+=========================  
+iOS and macOS Developer 
+-----------------------  
+* 🌍  I'm based in Beijing 
+* 🖥️  See my portfolio at [Starming](http://ming1016.github.io) 
+* ✉️  You can contact me at [ming1016@foxmail.com](mailto:ming1016@foxmail.com) 
+* 🚀  I'm currently working on [戴铭的开发小册子](http://github.com/ming1016/SwiftPamphletApp) 
+* 🧠  I'm learning SwiftUI
 
 ### Skills  
 
